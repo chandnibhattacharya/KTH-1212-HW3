@@ -4,7 +4,8 @@ import client.view.Interpreter;
 import common.FileServer;
 
 import java.rmi.Naming;
-/*  
+/*
+Chandni Bhattacharya
 */
 public class ClientMain {
   public static void main(String[] args) {
