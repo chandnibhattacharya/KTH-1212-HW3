@@ -24,8 +24,7 @@ import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.ConcurrentHashMap;
 
 /**
- * Author Syed Arif Rahman
- * arifkh77@yahoo.com
+ * 
  * Controller for the file server which is directly called by other nodes.
  */
 public class Controller extends UnicastRemoteObject implements FileServer {

@@ -8,8 +8,7 @@ import java.io.ObjectInputStream;
 import java.nio.channels.SocketChannel;
 
 /**
- * Author Syed Arif Rahman
- * arifkh77@yahoo.com
+ * 
  * Attaches a <code>SocketChannel</code> to a user who sends their id.
  */
 class ClientHandler {

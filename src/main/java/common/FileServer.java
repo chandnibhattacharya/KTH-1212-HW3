@@ -10,8 +10,7 @@ import java.rmi.Remote;
 import java.rmi.RemoteException;
 
 /**
- * Author Syed Arif Rahman
- * arifkh77@yahoo.com
+ * 
  * Registry for RMI.
  */
 public interface FileServer extends Remote {

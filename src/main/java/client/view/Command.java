@@ -1,8 +1,7 @@
 package client.view;
 
 /**
- * Author Syed Arif Rahman
- * arifkh77@yahoo.com
+ * 
  * Defines all commands that can be performed by a user.
  */
 public enum Command {

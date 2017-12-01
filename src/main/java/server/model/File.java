@@ -5,8 +5,7 @@ import server.integration.HibernateSession;
 import javax.persistence.*;
 
 /**
- * Author Syed Arif Rahman
- * arifkh77@yahoo.com
+ * 
  * Data access object used to communicate with the database.
  */
 @Entity(name = "File")

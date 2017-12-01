@@ -7,8 +7,7 @@ import java.util.ArrayList;
 import java.util.Collection;
 
 /**
- * Author Syed Arif Rahman
- * arifkh77@yahoo.com
+ * 
  * Data access object used to communicate with the database.
  */
 @Entity(name = "User")

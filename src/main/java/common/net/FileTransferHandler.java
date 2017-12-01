@@ -9,8 +9,7 @@ import java.nio.file.StandardOpenOption;
 import java.util.EnumSet;
 
 /**
- * Author Syed Arif Rahman
- * arifkh77@yahoo.com
+ * 
  * File handling over a TCP socket using NIO.
  */
 public class FileTransferHandler {

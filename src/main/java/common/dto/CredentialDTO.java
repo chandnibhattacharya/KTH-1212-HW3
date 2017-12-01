@@ -3,8 +3,7 @@ package common.dto;
 import java.io.Serializable;
 
 /**
- * Author Syed Arif Rahman
- * arifkh77@yahoo.com
+ *
  * Class used to encapsulate the login credentials.
  */
 public class CredentialDTO implements Serializable {

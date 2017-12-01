@@ -31,8 +31,7 @@ public class Interpreter implements Runnable {
   private SocketChannel socket;
 
   /**
-   * Author Syed Arif Rahman
-   * arifkh77@yahoo.com
+   * 
    * Starts a new interpreter on a separate thread.
    *
    * @param server The server registry to communicate with.

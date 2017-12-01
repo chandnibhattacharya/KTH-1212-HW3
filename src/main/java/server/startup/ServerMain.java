@@ -15,8 +15,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 /**
- * Author Syed Arif Rahman
- * arifkh77@yahoo.com
+ * 
  * Stars the file handling server.
  */
 public class ServerMain {

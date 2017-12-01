@@ -11,8 +11,7 @@ import javax.security.auth.login.LoginException;
 import java.rmi.RemoteException;
 
 /**
- * Author Syed Arif Rahman
- * arifkh77@yahoo.com
+ * 
  */
 
 public class UserDAO {

@@ -11,8 +11,7 @@ import java.nio.channels.SocketChannel;
 import java.util.concurrent.CompletableFuture;
 
 /**
- * Author Syed Arif Rahman
- * arifkh77@yahoo.com
+ * 
  * Handles incoming file transfer sockets.
  */
 public class Listener implements Runnable {

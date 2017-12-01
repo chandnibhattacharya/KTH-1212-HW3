@@ -5,8 +5,7 @@ import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
 
 /**
- * Author Syed Arif Rahman
- * arifkh77@yahoo.com
+ * 
  * Handles the hibernate <code>SessionFactory</code>.
  */
 public abstract class HibernateSession {

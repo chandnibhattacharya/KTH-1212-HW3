@@ -3,8 +3,7 @@ package client.view;
 import java.util.Arrays;
 
 /**
- * Author Syed Arif Rahman
- * arifkh77@yahoo.com
+ 
  * Parses client commands.
  */
 class CmdLineParser {

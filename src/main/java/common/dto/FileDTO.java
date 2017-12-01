@@ -6,8 +6,7 @@ import server.model.File;
 import java.io.Serializable;
 
 /**
- * Author Syed Arif Rahman
- * arifkh77@yahoo.com
+ * 
 */
 
 public class FileDTO implements Serializable {

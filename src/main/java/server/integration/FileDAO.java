@@ -10,8 +10,7 @@ import org.hibernate.query.Query;
 import java.util.ArrayList;
 import java.util.List;
 /**
- * Author Syed Arif Rahman
- * arifkh77@yahoo.com
+ * 
  */
 
 public class FileDAO {
